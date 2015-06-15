@@ -1,2 +1,5 @@
-# c:/Users/szl/learngit
-print('hello, world')
+c:/Users/szl/learngit
+d:/Users/szl/learngit/hello.txt
+
+print('hello, world.')
+
