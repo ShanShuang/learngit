@@ -1,0 +1,2 @@
+# c:/Users/szl/learngit
+print('hello, world')
