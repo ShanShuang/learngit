@@ -1,0 +1,2 @@
+# d/Users/szl/learngit/hello.txt
+print('hello, world.')
